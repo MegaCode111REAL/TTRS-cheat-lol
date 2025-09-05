@@ -9,7 +9,8 @@ Here are the two cheats to drag straight into your bookmarks:
 There you go!
 ---
 workin on smth else rn using 
-yes, full toolkit. also, file https://nest.ttrockstars.com/avatar/shop/info might be useful... CONTENTS:"{
+https://nest.ttrockstars.com/avatar/shop/info ... 
+CONTENTS:"{
     "ownedIds": [
         {
             "id": 13454,
