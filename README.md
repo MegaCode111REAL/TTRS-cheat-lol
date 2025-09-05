@@ -1,4 +1,4 @@
 # TTRS-cheat-lol
 ---
-Go to [this]() site for the bookmarklets to drag!
+Go to [this](https://megacode111real.github.io/TTRS-cheat-lol/) site for the bookmarklets to drag!
 :)
